@@ -1,0 +1,265 @@
+ZONA_GEOGRAFICA_STR,ANIO,IHH_CANALES_TRANSMISION,IHH_CANALES_PROGRAMACION
+Acaponeta- Tecuala,2014,5556,5000
+Acapulco,2014,5200,5200
+Acayucan,2014,5000,5000
+Agualeguas,2014,10000,10000
+Aguascalientes,2014,5200,5200
+Cabo San Lucas- San Jose del Cabo,2014,5556,5556
+Campeche,2014,5000,5000
+Cancun,2014,3600,3600
+Celaya,2014,5000,5313
+Chetumal,2014,5000,5000
+Chihuahua,2014,5000,5200
+Chilpancingo,2014,5000,5000
+Ciudad del Carmen,2014,5556,5556
+Ciudad Obregon,2014,3878,3600
+Ciudad Victoria,2014,3889,3889
+Coatzacoalcos,2014,5000,5000
+Colima-Villa de Alvarez,2014,5200,5200
+Comitan,2014,5200,5200
+Cordoba,2014,5200,5000
+Cuautla,2014,5556,5102
+Cuencame,2014,10000,10000
+Cuernavaca,2014,5556,5102
+Culiacan,2014,5200,5200
+Delicias,2014,5200,5000
+Durango,2014,5000,5918
+Ensenada,2014,5200,5200
+Guadalajara,2014,5918,5556
+Guanajuato,2014,3889,4063
+Guaymas,2014,3750,3750
+Hermosillo,2014,5556,5556
+Hidalgo del Parral,2014,5000,5000
+Juarez,2014,4286,3491
+La Laguna,2014,3889,3878
+La Paz,2014,5000,5000
+La Piedad-Penjamo,2014,10000,10000
+Leon,2014,5062,4321
+Los Mochis,2014,3600,3600
+Matamoros,2014,3061,3125
+Matehuala- Cedral-Dr. Arroyo,2014,5556,5556
+Mazatlan,2014,5200,5200
+Merida,2014,3600,3061
+Mexicali,2014,4688,3472
+Minatitlan,2014,5000,5000
+Monclova-Frontera,2014,5000,5000
+Monterrey,2014,4074,3800
+Morelia,2014,5556,5556
+Moroleon-Uriangato,2014,10000,10000
+Nogales,2014,3600,3600
+Nuevo Laredo,2014,3889,3878
+Oaxaca,2014,5200,5200
+Ocotlan,2014,5200,5000
+Orizaba,2014,10000,10000
+Pachuca,2014,6250,6033
+Piedras Negras,2014,3889,3889
+Poza Rica,2014,5556,5102
+Puebla-Tlaxcala,2014,5556,5102
+Puerto Vallarta,2014,5000,5000
+Queretaro,2014,5000,5313
+Reynosa,2014,3061,3125
+Rioverde,2014,3600,3600
+Saltillo,2014,4688,4321
+San Cristobal de las Casas,2014,5200,5200
+San Francisco del Rincon,2014,3889,4063
+San Luis Potosf,2014,3889,3889
+Santiago Papasquiaro,2014,5556,5556
+Tampico,2014,3061,3061
+Tapachula,2014,5556,5200
+Tecoman,2014,6800,5556
+Tehuacan,2014,5556,5000
+Tehuantepec,2014,10000,10000
+Tepic,2014,3600,3600
+Teziutlan,2014,5918,5102
+Tianguistenco,2014,5102,5102
+Tijuana,2014,3750,3472
+Tizimfn- Valladolid,2014,5556,5556
+Tlaxcala-Apizaco,2014,5200,5000
+Toluca,2014,5000,5102
+Tula,2014,5200,5556
+Tulancingo,2014,5000,5000
+Tulum- Cozumel-Solidaridad,2014,3889,3600
+Tuxtla Gutierrez,2014,5556,5200
+Uruapan,2014,5200,5556
+Valle de Mexico,2014,4321,4792
+Veracruz,2014,5918,5313
+Villahermosa,2014,5200,5200
+Xalapa,2014,6250,5313
+Zacatecas-Guadalupe,2014,5200,5200
+Zamora,2014,5200,5556
+Acaponeta- Tecuala,2019,3086,3000
+Acapulco,2019,3889,3600
+Acayucan,2019,4074,3600
+Agualeguas,2019,3333,3600
+Aguascalientes,2019,3889,3600
+Cabo San Lucas- San Jose del Cabo,2019,2800,3086
+Campeche,2019,2778,3000
+Cancun,2019,2245,2561
+Celaya,2019,4074,3888
+Chetumal,2019,3600,4062
+Chihuahua,2019,3125,3194
+Chilpancingo,2019,3600,4285
+Ciudad del Carmen,2019,2800,2812
+Ciudad Obregon,2019,3125,2662
+Ciudad Victoria,2019,3061,2662
+Coatzacoalcos,2019,3600,3600
+Colima-Villa de Alvarez,2019,3889,3580
+Comitan,2019,3469,3388
+Cordoba,2019,5200,5000
+Cuautla,2019,5556,5061
+Cuencame,2019,3333,3600
+Cuernavaca,2019,4286,3719
+Culiacan,2019,3889,4083
+Delicias,2019,3061,3086
+Durango,2019,3400,2889
+Ensenada,2019,5200,5102
+Guadalajara,2019,3200,2465
+Guanajuato,2019,3889,3472
+Guaymas,2019,3750,3469
+Hermosillo,2019,4286,3719
+Hidalgo del Parral,2019,5000,5000
+Juarez,2019,2840,2290
+La Laguna,2019,3061,2663
+La Paz,2019,2778,3333
+La Piedad-Penjamo,2019,10000,10000
+Leon,2019,4200,2889
+Los Mochis,2019,2778,2639
+Matamoros,2019,2500,2188
+Matehuala- Cedral-Dr. Arroyo,2019,2800,2812
+Mazatlan,2019,3889,3889
+Merida,2019,2245,2308
+Mexicali,2019,3827,2711
+Minatitlan,2019,3600,3600
+Monclova-Frontera,2019,3600,4286
+Monterrey,2019,3400,2909
+Morelia,2019,4793,3889
+Moroleon-Uriangato,2019,10000,10000
+Nogales,2019,3600,3889
+Nuevo Laredo,2019,3061,2899
+Oaxaca,2019,3889,3800
+Ocotlan,2019,5200,5102
+Orizaba,2019,10000,10000
+Pachuca,2019,4200,3194
+Piedras Negras,2019,3889,3580
+Poza Rica,2019,4286,4200
+Puebla-Tlaxcala,2019,2840,2444
+Puerto Vallarta,2019,3600,4286
+Queretaro,2019,4074,3889
+Reynosa,2019,2500,2188
+Rioverde,2019,2778,2778
+Saltillo,2019,3200,2600
+San Cristobal de las Casas,2019,3889,3600
+San Francisco del Rincon,2019,3061,2755
+San Luis Potosf,2019,2500,2551
+Santiago Papasquiaro,2019,2800,3086
+Tampico,2019,2500,2356
+Tapachula,2019,4286,4074
+Tecoman,2019,5000,3750
+Tehuacan,2019,5556,5556
+Tehuantepec,2019,10000,10000
+Tepic,2019,2245,2800
+Teziutlan,2019,4688,4200
+Tianguistenco,2019,4063,3600
+Tijuana,2019,3086,2711
+Tizimfn- Valladolid,2019,2800,2812
+Tlaxcala-Apizaco,2019,2500,2347
+Toluca,2019,3878,3600
+Tula,2019,4380,3750
+Tulancingo,2019,5000,5000
+Tulum- Cozumel-Solidaridad,2019,3061,3000
+Tuxtla Gutierrez,2019,4286,4074
+Uruapan,2019,3061,2839
+Valle de Mexico,2019,2778,2150
+Veracruz,2019,3400,3373
+Villahermosa,2019,3889,3600
+Xalapa,2019,3719,3750
+Zacatecas-Guadalupe,2019,3889,3600
+Zamora,2019,5200,5000
+Aguascalientes,2020,4031,3675
+Tijuana,2020,3076,2896
+Mexicali,2020,3803,2725
+La Laguna,2020,3049,2651
+Saltillo,2020,3200,2798
+Monclova-Frontera,2020,3600,4288
+Piedras Negras,2020,4149,3362
+Colima-Villa de Alvarez,2020,3906,3575
+TecomAn,2020,6267,5465
+Tuxtla Gutierrez,2020,3016,3051
+JuArez,2020,2839,2396
+Chihuahua,2020,3122,3190
+Valle de Mexico,2020,2795,2561
+Leon,2020,3390,2679
+San Francisco del Rincon,2020,2508,2421
+Moroleon-Uriangato,2020,5764,5978
+Acapulco,2020,3879,3648
+Pachuca,2020,3178,2300
+Tulancingo,2020,4758,4756
+Tula,2020,4375,4195
+Guadalajara,2020,3211,2350
+Puerto Vallarta,2020,3524,4191
+OcotlAn,2020,4361,4441
+Toluca,2020,3048,2563
+Morelia,2020,3850,3333
+Zamora,2020,3748,3891
+La Piedad-Penjamo,2020,4397,4643
+Cuernavaca,2020,4198,3722
+Cuautla,2020,5413,4950
+Tepic,2020,2375,2250
+Monterrey,2020,3573,3047
+Oaxaca,2020,3806,3732
+Tehuantepec,2020,7141,7524
+Puebla-Tlaxcala,2020,2788,2413
+TehuacAn,2020,5468,5540
+Queretaro,2020,4017,3800
+Cancun,2020,2248,2361
+San Luis Potosi,2020,3429,2685
+Rioverde,2020,3616,3614
+Guaymas,2020,3741,3269
+Villahermosa,2020,2812,3045
+Tampico,2020,2509,2426
+Reynosa,2020,2592,2357
+Matamoros,2020,3045,2882
+Nuevo Laredo,2020,3061,2653
+Tlaxcala-Apizaco,2020,2626,2384
+Veracruz,2020,3811,3460
+Xalapa,2020,4292,3538
+Poza Rica,2020,4790,4247
+Orizaba,2020,3640,4150
+MinatitlAn,2020,3548,3526
+Coatzacoalcos,2020,3601,3600
+Cordoba,2020,4804,4435
+Acayucan,2020,4059,3596
+Merida,2020,2245,2426
+Zacatecas-Guadalupe,2020,3857,3598
+Celaya,2020,4064,3870
+Tianguistenco,2020,3367,2701
+TeziutlAn,2020,5014,4523
+Campeche,2020,2767,2971
+Chetumal,2020,4601,4700
+Chilpancingo,2020,3729,3808
+Ciudad Victoria,2020,3067,2662
+CuliacAn,2020,2770,2654
+Delicias,2020,3889,4286
+Durango,2020,3354,2849
+Ensenada,2020,5078,4967
+Guanajuato,2020,4004,3406
+Hermosillo,2020,4214,3672
+Hidalgo del Parral,2020,5155,5002
+La Paz,2020,2788,3017
+MazatlAn,2020,2779,2643
+Nogales,2020,3574,3852
+Tapachula,2020,3050,3006
+Ciudad del Carmen,2020,3750,3889
+Cuencame,2020,10000,10000
+Santiago Papasquiaro,2020,3750,4286
+Uruapan,2020,2245,2562
+Agualeguas,2020,5000,5000
+San Cristobal de las Casas,2020,3600,4063
+Ciudad Obregon,2020,3333,2663
+Comitan,2020,2778,2840
+Los Mochis,2020,2778,2639
+Cabo San Lucas- San Jose del Cabo,2020,4242,4720
+Acaponeta- Tecuala,2020,3235,3060
+Tulum- Cozumel-Solidaridad,2020,3889,3580
+Matehuala- Cedral-Dr. Arroyo,2020,3889,3580
+Tizimin- Valladolid,2020,3750,3889
