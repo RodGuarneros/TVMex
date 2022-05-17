@@ -1,5 +1,5 @@
 # TVMex
-## Visualizing patterns in Television Sector Mexico
+## Visualizing patterns in the Mexican Television Sector
 ### By Rodrigo Guarneros
 
 At this point we are giving a visual exploration of pay Television licensees and free-to-air Television in Mexico.
